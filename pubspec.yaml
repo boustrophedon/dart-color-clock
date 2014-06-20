@@ -1,0 +1,9 @@
+name: color clock thing
+version: "0.1.0"
+description: just for fun
+author: Harry Stern <harry.stern@rutgers.edu>
+homepage: https://github.com/boustrophedon/dart-color-clock
+environment:
+  sdk: ">=1.2.0"
+dependencies:
+  browser: any
